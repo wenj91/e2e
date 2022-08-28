@@ -3,7 +3,7 @@ module github.com/efficientgo/e2e
 go 1.15
 
 require (
-	github.com/efficientgo/tools/core v0.0.0-20210129205121-421d0828c9a6
+	github.com/efficientgo/tools/core v0.0.0-20220225185207-fe763185946b
 	github.com/kr/pretty v0.2.1 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.12.1
